@@ -1,0 +1,8 @@
+declare module "*../Assets/flow.jpg"
+declare module "*../Assets/robot.jpg"
+declare module "*../Assets/bitoin.jpg"
+declare module "*../Assets/ai.jpg"
+declare module "*../Assets/basket.jpg"
+declare module "*../Assets/music.jpg"
+declare module "*../Assets/school.jpg"
+declare module "*../Assets/study.jpg"
